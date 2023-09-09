@@ -1,0 +1,26 @@
+.card1-card {
+  position: relative;
+}
+.card1-header {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.card1-icon {
+  height: 50px;
+  object-fit: cover;
+}
+.card1-heading {
+  color: rgb(18, 40, 33);
+  font-size: 24px;
+  max-width: 600px;
+  font-style: normal;
+  font-weight: 500;
+}
+.card1-text {
+  color: rgb(18, 40, 33);
+  max-width: 600px;
+  font-family: Lato;
+  line-height: 24px;
+}
