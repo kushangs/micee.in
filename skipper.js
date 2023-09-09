@@ -9,7 +9,7 @@ window.addEventListener("load", function() {
         body: data,
       })
       .then(() => {
-        alert("Success!");
+        alert("Thank You, expect a call from our team Soon!");
       })
     });
   });
