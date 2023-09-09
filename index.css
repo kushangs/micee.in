@@ -974,9 +974,6 @@
   font-family: Lato;
   line-height: 30px;
 }
-.home-navlink2 {
-  text-decoration: none;
-}
 .home-mission1 {
   width: 100%;
   display: flex;
@@ -1500,9 +1497,16 @@
   .home-title {
     width: 445px;
   }
+  .home-image {
+    display: none;
+  }
   .home-image01 {
-    width: 451px;
-    height: 576px;
+    right: 20px;
+    width: 446px;
+    bottom: -9px;
+    height: 569px;
+    position: absolute;
+    align-self: flex-start;
   }
   .home-text15 {
     width: 449px;
