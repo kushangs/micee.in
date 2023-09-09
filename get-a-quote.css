@@ -704,7 +704,7 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .get-aquote-text06 {
-    height: 134px;
+    height: auto;
     font-size: 32px;
     line-height: 41px;
     padding-bottom: 5px;
@@ -747,8 +747,13 @@
     padding-bottom: var(--dl-space-space-twounits);
   }
   .get-aquote-text06 {
-    width: 449px;
-    height: 166px;
+    color: rgb(18, 40, 33);
+    width: auto;
+    height: auto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 51px;
   }
   .get-aquote-text07 {
     width: 449px;
